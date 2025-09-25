@@ -1,0 +1,9 @@
+{
+  "name": "IndexDosItens",
+  "slug": "IndexDosItens",
+  "plugins": [
+    "expo-router",
+    "expo-sqlite"
+  ],
+  "scheme": "telas"
+}
