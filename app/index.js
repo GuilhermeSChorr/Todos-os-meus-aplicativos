@@ -8,7 +8,7 @@ export default function App() {
         <SafeAreaView style={estilos.areaSegura}>
     
     <Link href="/Avaliacao2" asChild>
-        <Button title="Clique para a Avaliação 2"  />   
+        <Button title="Meus filmes"  />   
     </Link>
 </SafeAreaView>
     )
