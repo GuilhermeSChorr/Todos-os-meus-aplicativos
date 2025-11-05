@@ -29,7 +29,13 @@ export default function App() {
             <Link href="api" asChild>
                 <Button title="Clique para ver API" />
             </Link>
+            <Link href="items" asChild>
+                <Button title="Clique para ver Items" />
+            </Link>
         </SafeAreaView>
+
+
+
     )
 }
 
